@@ -23,9 +23,12 @@ Strategic planning makes use of [Objectives and Key Results](https://github.com/
 
 Andy Grove, CEO at Intel, first spoke about “Objectives and Key Results” (OKR) in his book High Output Management.
 
-"A successful system needs only to answer two questions: Where do I want to go? The answer provides the Objective. How will I pace myself to see if I’m getting there? The answer gives us Key Results."
+"A successful system needs only to answer two questions: 
 
-“The one thing OKR provides par excellence is focus.”
+1) "Where do I want to go?" The answer provides the **Objective**.
+2) "How will I pace myself to see if I’m getting there?" The answer gives us **Key Results**."
+
+“The one thing OKR provides par excellence is **focus**.”
 
 “We see a nesting hierarchy of Objectives: if the subordinate’s Objectives are met, the supervisor’s Objectives will be met as well.”
 
