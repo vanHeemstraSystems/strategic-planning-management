@@ -1,7 +1,7 @@
 strategic-planning-management
 # Strategic Planning Management
 
-> Slugline
+> “Strategic planning is worthless – unless there is first a strategic vision.” John Naisbitt
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
