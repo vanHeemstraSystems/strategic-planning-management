@@ -36,7 +36,16 @@ Andy Grove, CEO at Intel, first spoke about “Objectives and Key Results” (OK
 
 Generated with [Rytr](https://app.rytr.me)
 
-![Image](https://github.com/user-attachments/assets/3022e367-5c38-438f-834d-cdca99f2bf66)
+<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/50c62669-2a8e-498f-9b42-b80a8aeb64b3" />
+
+<table>
+<th colspan="5">Summarize with:</th><tr/> 
+<td><a href="https://chat.openai.com/?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/strategic-planning-management/">ChatGPT</a></td>
+<td><a href="https://x.com/i/grok?text=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/strategic-planning-management/">Grok</a></td>
+<td><a href="https://www.google.com/search?udm=50&aep=11&q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/strategic-planning-management/">Google AI Mode</a></td>
+<td><a href="https://www.perplexity.ai/search/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/strategic-planning-management/">Perplexity</a></td>
+<td><a href="https://claude.ai/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/strategic-planning-management/">Claude.ai</a></td>  
+</table>
 
 ## 100 - Introduction
 
