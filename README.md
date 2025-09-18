@@ -36,7 +36,7 @@ Andy Grove, CEO at Intel, first spoke about “Objectives and Key Results” (OK
 
 Generated with [Rytr](https://app.rytr.me)
 
-<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/50c62669-2a8e-498f-9b42-b80a8aeb64b3" />
+<img width="1395" height="897" alt="Image" src="https://github.com/user-attachments/assets/02f50370-c9ed-4823-a060-f6ce28149330" />
 
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
