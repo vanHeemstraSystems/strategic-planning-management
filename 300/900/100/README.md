@@ -1,14 +1,14 @@
 # 100 - Strategic Seeing
 
-## 050 - 
+## 050 - Mastering the skill of Strategic Seeing for unwavering growth.
 
 See [README.md](./050/README.md)
 
-## 100 - Strategic Seeing: Solving the Big Customer Problem
+## 100 - Strategic Seeing: Solving the Big Customer Problem.
 
 See [README.md](./100/README.md)
 
-## 200 - Strategic Seeing: Mastering the Art of Problem-Solving for Growth
+## 200 - Strategic Seeing: Mastering the Art of Problem-Solving for Growth.
 
 See [README.md](,/README.md)
 
