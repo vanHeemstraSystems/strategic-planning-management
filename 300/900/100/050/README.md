@@ -1,8 +1,8 @@
-# 050 - 
+# 050 - Mastering the skill of Strategic Seeing for unwavering growth.
 
-Mastering the skill of Strategic Seeing for unwavering growth.
-Five Pillars of Your Strategy
+## Five Pillars of Your Strategy
 Stop reading the label from inside of the bottle
+
 SVYATOSLAV BIRYULIN
 FEB 10
 READ IN APP
