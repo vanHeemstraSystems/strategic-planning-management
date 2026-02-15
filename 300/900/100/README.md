@@ -1,5 +1,9 @@
 # 100 - Strategic Seeing
 
+## 050 - 
+
+See [README.md](./050/README.md)
+
 ## 100 - Strategic Seeing: Solving the Big Customer Problem
 
 See [README.md](./100/README.md)
