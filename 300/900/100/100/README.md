@@ -1,4 +1,4 @@
-Strategic Seeing: Solving the Big Customer Problem
+# Strategic Seeing: Solving the Big Customer Problem
 
 Executive Summary
 
